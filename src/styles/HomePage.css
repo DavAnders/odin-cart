@@ -1,0 +1,18 @@
+.homepage {
+  padding: 20px;
+  text-align: center;
+}
+
+.feature-images {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.feature-images img {
+  max-width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: contain;
+}
